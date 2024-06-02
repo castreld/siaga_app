@@ -192,7 +192,7 @@ class _HomeState extends State<Home> {
               ),
               Positioned(
                 left: 138,
-                top: 290,
+                top: 233,
                 child: Text(
                   'GAS VALUE',
                   textAlign: TextAlign.center,
